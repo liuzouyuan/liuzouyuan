@@ -1,0 +1,3 @@
+steps:
+  - name: Install SSH Key
+    uses: shimataro/ssh-key-action@v2
